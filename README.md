@@ -1,2 +1,3 @@
 # Python3
-python directory
+Python directory.
+This contains basics of python programming.
